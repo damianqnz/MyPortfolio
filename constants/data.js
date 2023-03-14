@@ -14,7 +14,7 @@ const userData = {
     },
     {
       title: "Portfolio",
-      link: "https://damianqnz.in",
+      link: "damianwebdesign.tech",
       imgUrl: "/portfolio.webp",
     },
     {
