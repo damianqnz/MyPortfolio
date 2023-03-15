@@ -73,7 +73,11 @@ export default function Contact() {
               </a>
             </div>
           </div>
-          <form className="form rounded-lg bg-white p-4 flex flex-col">
+          <form className="form rounded-lg bg-white p-4 flex flex-col" name="contact" method="post" data-netlify="true" onSubmit="submit" data-netlify-honeypot="bot-field">
+            <input type="hidden" name="form-name" value="contact" />
+            <div hidden>
+              <input name="bot-field"/>
+            </div>
             <label htmlFor="name" className="text-sm text-gray-600 mx-4">
               {" "}
               Your Name
