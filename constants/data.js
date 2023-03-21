@@ -80,7 +80,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1NsNCS0QDQl5o7OOgxtOuKe5T45a15URX/view?usp=sharing",
+    "https://drive.google.com/file/d/1AH3Pa8R3D2AMrt1ERq8AZmPzpSgE9D41/view?usp=sharing",
   socialLinks: {
     instagram: "https://www.instagram.com/damianqnz/",
     twitter: "https://twitter.com/demianqnz",
