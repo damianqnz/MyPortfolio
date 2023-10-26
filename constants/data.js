@@ -5,12 +5,22 @@ const userData = {
   avatarUrl: "/perfil.jpg",
   email: "ing.damianqnz@gmail.com",
   phone: "+351 927-218-384",
-  address: "Rua Pereira da Rosa 37, Estoril, Lisboa.",
+  address: "Praceta Trindade Coelho 95, lote 6A, Parede.",
   projects: [
     {
-      title: "Kimka Cosmetic",
-      link: "https://kimkacosmetic.com",
-      imgUrl: "/kimkacosmetic.webp",
+      title: "Glowding",
+      link: "https://glowding.com",
+      imgUrl: "/glowdingPage.webp",
+    },
+    {
+      title: "karoline Baer",
+      link: "https://karolinebaer.de/",
+      imgUrl: "/karolinebaer.webp",
+    },
+    {
+      title: "Business Flow Academy",
+      link: "https://businessflowacademy.com/en/",
+      imgUrl: "/businessflow.webp",
     },
     {
       title: "Portfolio",
@@ -18,9 +28,9 @@ const userData = {
       imgUrl: "/portfolio.webp",
     },
     {
-      title: "Coming soon",
-      link: "https://glowding.com",
-      imgUrl: "/glowding.webp",
+      title: "Kimka Cosmetic",
+      link: "https://kimkacosmetic.com",
+      imgUrl: "/kimkacosmetic.webp",
     },
   ],
   about: {
