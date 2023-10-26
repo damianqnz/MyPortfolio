@@ -32,6 +32,11 @@ const userData = {
       link: "https://kimkacosmetic.com",
       imgUrl: "/kimkacosmetic.webp",
     },
+    {
+      title: "Grupo Start",
+      link: "https://grupostart.com.ar",
+      imgUrl: "/grupoStart.webp",
+    },
   ],
   about: {
     title:
